@@ -1,0 +1,2 @@
+# thermald
+thermald-AUR
